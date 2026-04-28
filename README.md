@@ -45,3 +45,8 @@ Let's build on Base 🟦
 - Write first simple smart contract (Counter)
 - Deploy it on Base testnet
 - Document the deployment process
+
+## Day 2 Plans (Updated)
+- Learn basic Solidity syntax
+- Write first simple smart contract (Counter)
+- Deploy it on Base Sepolia testnet
