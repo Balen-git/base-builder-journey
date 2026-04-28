@@ -38,3 +38,10 @@ Let's build on Base 🟦
 - Solidity by Example
 - Base Builder Program
 - Guild.xyz Base Guild
+
+
+## Day 2 Plans
+- Learn basic Solidity syntax
+- Write first simple smart contract (Counter)
+- Deploy it on Base testnet
+- Document the deployment process
