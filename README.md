@@ -23,3 +23,10 @@ My public journey of learning and building on **Base Chain** (Ethereum L2 by Coi
 **Builder since:** Day 1
 
 Let's build on Base 🟦
+
+
+## Day 1 - Getting Started
+- Created GitHub repository for Base Builder Journey
+- Wrote clear project README
+- Committed detailed documentation
+- Goal: Reach 100 commits while learning Base
