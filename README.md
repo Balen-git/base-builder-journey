@@ -50,3 +50,10 @@ Let's build on Base 🟦
 - Learn basic Solidity syntax
 - Write first simple smart contract (Counter)
 - Deploy it on Base Sepolia testnet
+
+## Next Goals
+- Deploy first smart contract on Base
+- Build a simple onchain dApp
+- Improve documentation
+- Learn basic Solidity syntax   ← Add this line
+
