@@ -30,3 +30,10 @@ Let's build on Base 🟦
 - Wrote clear project README
 - Committed detailed documentation
 - Goal: Reach 100 commits while learning Base
+
+
+## Resources I'm Using
+- Base Official Docs
+- Solidity by Example
+- Base Builder Program
+- Guild.xyz Base Guild
