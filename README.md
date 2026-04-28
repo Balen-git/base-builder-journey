@@ -9,9 +9,10 @@ My public journey of learning and building on **Base Chain** (Ethereum L2 by Coi
 - Goal: Become a consistent Base builder
 
 ## Current Status
-- GitHub Commits: 2/100+
+- GitHub Commits: 5/100+
 - Contracts Deployed: 0
-
+- Days Building: 1
+- 
 ## Next Goals
 - Deploy first smart contract on Base
 - Build a simple onchain dApp
