@@ -17,7 +17,7 @@ My public journey of learning and building on **Base Chain** (Ethereum L2 by Coi
 - Deploy first smart contract on Base
 - Build a simple onchain dApp
 - Improve documentation
-
+- Setup Foundry or Hardhat for Base
 ---
 
 **Started:** April 28, 2026  
