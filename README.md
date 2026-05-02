@@ -59,3 +59,9 @@ Let's build on Base 🟦
 
 
 - Setup development tools for Base (Foundry/Hardhat)
+
+
+## Technical Notes
+- Base is an OP Stack chain
+- Uses Ethereum security
+- Very low fees
