@@ -38,7 +38,7 @@ Let's build on Base 🟦
 - Solidity by Example
 - Base Builder Program
 - Guild.xyz Base Guild
-
+- Base Sepolia Faucet
 
 ## Day 2 Plans
 - Learn basic Solidity syntax
