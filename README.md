@@ -57,3 +57,5 @@ Let's build on Base 🟦
 - Improve documentation
 - Learn basic Solidity syntax   ← Add this line
 
+
+- Setup development tools for Base (Foundry/Hardhat)
