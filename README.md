@@ -73,3 +73,5 @@ Let's build on Base 🟦
 - - Planning to reach 50 GitHub commits for Base Guild role
  
   - - Learning basic Solidity syntax today
+   - Goal: Reach Base Guild 50 commits role
+    - 
