@@ -74,4 +74,6 @@ Let's build on Base 🟦
  
   - - Learning basic Solidity syntax today
    - Goal: Reach Base Guild 50 commits role
+ 
+   - - Created notes folder structure (in progress)
     - 
