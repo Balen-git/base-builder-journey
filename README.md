@@ -76,4 +76,4 @@ Let's build on Base 🟦
    - Goal: Reach Base Guild 50 commits role
  
    - - Created notes folder structure (in progress)
-    - 
+    - - Daily target: 10 commits for consistent building
