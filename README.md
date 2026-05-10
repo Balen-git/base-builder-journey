@@ -77,3 +77,4 @@ Let's build on Base 🟦
  
    - - Created notes folder structure (in progress)
     - - Daily target: 10 commits for consistent building
+- Base Sepolia faucet used for test tokens
