@@ -69,3 +69,5 @@ Let's build on Base 🟦
 - Updated commit count to 15/100+ and planning 10 commits daily
 
 - - Base is an OP Stack L2 by Coinbase with low fees
+ 
+- - Planning to reach 50 GitHub commits for Base Guild role
