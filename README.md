@@ -71,3 +71,5 @@ Let's build on Base 🟦
 - - Base is an OP Stack L2 by Coinbase with low fees
  
 - - Planning to reach 50 GitHub commits for Base Guild role
+ 
+  - - Learning basic Solidity syntax today
