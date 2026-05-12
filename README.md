@@ -84,4 +84,4 @@ Let's build on Base 🟦
 - - Pushing towards 50 commits for Base Guild role
  
 - - Consistent building is key for Base airdrop & roles
- 
+ - Learning Solidity while making consistent commits
