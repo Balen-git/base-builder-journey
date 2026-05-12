@@ -87,3 +87,8 @@ Let's build on Base 🟦
  - Learning Solidity while making consistent commits
 
  - - 15 commits completed today - strong progress
+  
+   - - Today focused on consistent daily commits
+- Understanding how GitHub tracks activity for Base Guild
+- Small steps every day lead to big progress
+- Still aiming for 50 commits role soon
