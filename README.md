@@ -92,3 +92,9 @@ Let's build on Base 🟦
 - Understanding how GitHub tracks activity for Base Guild
 - Small steps every day lead to big progress
 - Still aiming for 50 commits role soon
+
+- ## Day 3 - Consistent Building
+- Completed 16 commits today
+- Focusing on daily GitHub activity
+- Understanding how commit history works for roles
+- Staying consistent to unlock 50 commits role
