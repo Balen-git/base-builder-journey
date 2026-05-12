@@ -79,3 +79,4 @@ Let's build on Base 🟦
     - - Daily target: 10 commits for consistent building
 - Base Sepolia faucet used for test tokens
 - 10 commits completed today for Base Builder Journey
+- Continuing daily commits to unlock 50 commit role
