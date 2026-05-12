@@ -104,3 +104,10 @@ Let's build on Base 🟦
 - Understanding that main branch commits count for Guild roles
 - Making steady progress toward 50 commits
 - Building good habits for long-term Base journey
+
+
+## Day 3 - Progress Update
+- Total commits reached 31
+- 16 commits done today
+- Main branch commits are correctly counting for Guild roles
+- Steady progress towards 50 commits role
