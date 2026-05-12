@@ -80,3 +80,5 @@ Let's build on Base 🟦
 - Base Sepolia faucet used for test tokens
 - 10 commits completed today for Base Builder Journey
 - Continuing daily commits to unlock 50 commit role
+
+- - Pushing towards 50 commits for Base Guild role
