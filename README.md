@@ -82,3 +82,6 @@ Let's build on Base 🟦
 - Continuing daily commits to unlock 50 commit role
 
 - - Pushing towards 50 commits for Base Guild role
+ 
+- - Consistent building is key for Base airdrop & roles
+ 
