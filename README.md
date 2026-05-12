@@ -98,3 +98,9 @@ Let's build on Base 🟦
 - Focusing on daily GitHub activity
 - Understanding how commit history works for roles
 - Staying consistent to unlock 50 commits role
+
+## Day 3 - GitHub Activity
+- Committing regularly to main branch
+- Understanding that main branch commits count for Guild roles
+- Making steady progress toward 50 commits
+- Building good habits for long-term Base journey
