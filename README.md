@@ -171,3 +171,11 @@ Let's build on Base 🟦
 - Building strong GitHub activity for Base Guild
 - Focused on quality documentation
 - Preparing mentally for smart contract development
+
+
+## Day 4 - Next Actions
+
+- Review Solidity basic syntax
+- Create first simple smart contract file
+- Setup Base Sepolia testnet in wallet
+- Continue daily documentation habit
