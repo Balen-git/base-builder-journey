@@ -179,3 +179,10 @@ Let's build on Base 🟦
 - Create first simple smart contract file
 - Setup Base Sepolia testnet in wallet
 - Continue daily documentation habit
+
+## Day 4 - Solidity Basics
+
+- Learned about `pragma solidity ^0.8.0;`
+- Understood contract declaration
+- Planning to create first `Counter.sol` file soon
+- Keeping strong commit consistency
