@@ -200,3 +200,10 @@ Let's build on Base 🟦
 - Building discipline through consistent commits
 - Excited to deploy first contract on Base soon
 - Targeting Base Guild 50 commits role
+
+## Day 4 - Technical Learning
+
+- Understood what is a Smart Contract
+- Learned about Solidity version pragma
+- Planning to create contracts/ folder soon
+- Steady progress towards 50 commits
