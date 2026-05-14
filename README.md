@@ -186,3 +186,10 @@ Let's build on Base 🟦
 - Understood contract declaration
 - Planning to create first `Counter.sol` file soon
 - Keeping strong commit consistency
+
+## Day 4 - Next Milestone
+
+- Aiming to reach 50 commits today
+- Will start creating actual smart contract files soon
+- Building strong profile for Base Builders role
+- Consistency is the key
