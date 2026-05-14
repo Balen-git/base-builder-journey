@@ -156,3 +156,12 @@ Let's build on Base 🟦
 - Reach 50 commits today
 - Start learning Solidity basics
 - Prepare for first smart contract
+
+
+## Day 4 - Learning Phase
+
+- Started reviewing Solidity documentation
+- Understood basic contract structure
+- Planning to write first Counter contract soon
+- Consistent commits helping build habit
+
