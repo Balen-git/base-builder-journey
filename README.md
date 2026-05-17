@@ -231,3 +231,9 @@ Let's build on Base 🟦
 - Successfully unlocked the Base Guild 50 Commits role
 - Strong consistency over multiple days
 - Big milestone for Base Builder Journey
+
+## Day 5 - 50 Commits Milestone Achieved! 🎉
+- Total commits now reached 50
+- Successfully unlocked the **GitHub: 50 Commits** role on Base Guild
+- Big thanks to consistent daily effort
+- Next target: 100 commits + first smart contract deployment
