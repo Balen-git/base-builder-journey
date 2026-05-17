@@ -208,8 +208,14 @@ Let's build on Base 🟦
 - Planning to create contracts/ folder soon
 - Steady progress towards 50 commits
 
-- ## Day 4 - Final Push to 50 Commits
+- ## Day 5 - Final Push to 50 Commits
 - Total commits currently at 47
 - Making strong consistent progress
 - Only a few more commits needed for Base Guild 50 role
 - Excited to unlock the role today
+
+## Day 5 - Almost There!
+- Total commits now at 48
+- Only 2 more needed for the 50 commits role
+- Strong daily consistency paying off
+- Ready to unlock Base Guild role soon
