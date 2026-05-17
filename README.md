@@ -225,3 +225,9 @@ Let's build on Base 🟦
 - Only 2 more needed to unlock Base Guild 50 commits role
 - Strong consistency over the past days
 - Very close to achieving the milestone
+
+- ## Day 5 - 50 Commits Achieved! 🎉
+- Total commits now at 50
+- Successfully unlocked the Base Guild 50 Commits role
+- Strong consistency over multiple days
+- Big milestone for Base Builder Journey
