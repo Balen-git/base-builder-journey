@@ -239,3 +239,8 @@ Let's build on Base 🟦
 - Next target: 100 commits + first smart contract deployment
 
 - - Reached 52 commits - waiting for Guild.xyz to sync 50 role
+ 
+  - - Reached 54+ commits
+- Awaiting Guild.xyz to sync the 50 Commits role
+- Consistent building on main branch
+- Next target: 100 commits + actual smart contract deployment
