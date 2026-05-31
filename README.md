@@ -42,3 +42,8 @@ Let's build on Base 🟦
 - Added `Counter.sol` (first smart contract)
 - Consistent daily commits
 - Working towards **GitHub: 100+ Commits** role
+
+## Day 6 - Progress Update (May 31, 2026)
+- Working towards **100 commits** for Base Guild role
+- Added new contracts and documentation
+- Current commits: ~63 → Target: 100+
