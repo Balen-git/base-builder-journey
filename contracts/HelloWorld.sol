@@ -1,14 +1,13 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
+/// @title HelloWorld
+/// @notice A simple greeting contract for Base
 contract HelloWorld {
-    string public greeting = "Hello, Base! 🚀";
+    string public greeting = "Hello, Base!";
 
-    function setGreeting(string memory _greeting) public {
-        greeting = _greeting;
-    }
-
-    function getGreeting() public view returns (string memory) {
+    /// @notice Returns the greeting message
+    function sayHello() public view returns (string memory) {
         return greeting;
     }
 }
