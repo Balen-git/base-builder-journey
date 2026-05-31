@@ -43,6 +43,15 @@ Let's build on Base 🟦
 - Consistent daily commits
 - Working towards **GitHub: 100+ Commits** role
 
+
+
+## 📋 Contracts Created
+
+| Contract            | Status     | Purpose                     |
+|---------------------|------------|-----------------------------|
+| HelloWorld.sol      | Pending    | Basic greeting              |
+| SimpleStorage.sol   | Pending    | Store & retrieve data       |
+| Counter.sol         | Done       | Simple counter              |
 ## Day 6 - Progress Update (May 31, 2026)
 - Working towards **100 commits** for Base Guild role
 - Added new contracts and documentation
