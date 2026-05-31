@@ -56,3 +56,10 @@ Let's build on Base 🟦
 - Working towards **100 commits** for Base Guild role
 - Added new contracts and documentation
 - Current commits: ~63 → Target: 100+
+
+- ## 📋 Contracts List
+
+| No | Contract Name         | Status   | Description                    |
+|----|-----------------------|----------|--------------------------------|
+| 1  | Counter.sol           | Done     | Basic counter contract         |
+| 2  | HelloWorld.sol        | Pending  | Simple greeting                |
